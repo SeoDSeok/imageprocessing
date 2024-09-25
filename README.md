@@ -12,3 +12,4 @@
 - feature points extraction : matching program, homography etc
 - object tracking : object tracking, motion vector etc
 - ML algorithm : computer vision with opencv ML
+- DL algorithm : mnist data classification with DL
