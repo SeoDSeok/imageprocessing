@@ -13,3 +13,4 @@
 - object tracking : object tracking, motion vector etc
 - ML algorithm : computer vision with opencv ML
 - DL algorithm : mnist data classification with DL
+- final project with DL : various project with opencv DL
